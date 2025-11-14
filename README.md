@@ -1,6 +1,6 @@
 # Rust on iOS Example
 
-A complete example demonstrating how to integrate Rust code into iOS applications using UniFFI for seamless interoperability.
+A complete example demonstrating how to integrate Rust code into iOS applications using Mozilla's UniFFI for seamless interoperability.
 
 ## 📱 What This Demonstrates
 
@@ -12,7 +12,8 @@ This project shows how to:
 - Create a Swift Package from the XCFramework
 - Integrate everything into a working iOS app
 
-Then the process will be seamless. You update the Rust library, run the ./build_ios.sh script, and you will automagically see the changes in Xcode!
+The end result is a seamless process: You update the Rust library, run the ~./build_ios.sh~ script, and you will automagically see the changes in Xcode!
+
 Thanks to Mozilla's UniFFI, you will also access the Rust code using a Swift syntax. E.g. A Rust function called `download_images()` becomes `downloadImages()` in Swift.
 
 ## 🏗️ Project Structure
@@ -66,5 +67,3 @@ Created by **Tjeerd in 't Veen**
 📧 tjeerd@mobilesystemdesign.com  
 🌐 [The Mobile System Design book](https://mobilesystemdesign.com/book)  
 📰 [The Mobile System Design newsletter](https://mobilesystemdesign.substack.com)
-
-*Mobile System Design Newsletter - Deep dives into mobile architecture, performance, and cross-platform development.*
