@@ -2,7 +2,7 @@
 //  MatterhornApp.swift
 //  Matterhorn
 //
-//  Created by Tjeerd in ‘t Veen on 10/11/2025.
+//  Created by Demo on 13/11/2025.
 //
 
 import SwiftUI

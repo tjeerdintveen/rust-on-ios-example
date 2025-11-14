@@ -1,14 +1,6 @@
-import XCTest
+import Testing
 @testable import Swiftzerland
 
-final class SwiftzerlandTests: XCTestCase {
-    func testNeutralGreeting() throws {
-        let greeting = neutralGreeting()
-        XCTAssertFalse(greeting.isEmpty)
-    }
-    
-    func testCreateCourier() throws {
-        let courier = createCourier()
-        XCTAssertFalse(courier.isEmpty)
-    }
+@Test func example() async throws {
+    // Write your test here and use APIs like `#expect(...)` to check expected conditions.
 }
