@@ -51,7 +51,7 @@ Note that ./build_ios.sh has a `cargo clean`` command. If you run this, compilat
 
 This example accompanies the comprehensive guide and video tutorial:
 
-[**Watch the video and read the complete guide on Substack →**](https://open.substack.com/pub/mobilesystemdesign/p/multiplatform-with-rust-on-ios?r=rby6v&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+[**Watch the video and read the complete guide on Substack →**](https://open.substack.com/pub/mobilesystemdesign/p/multiplatform-with-rust-on-ios-2c4?r=rby6v&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 ## 🔧 Build Process
 
